@@ -1,0 +1,25 @@
+.card3 button{
+    width: 125px;
+    height: 35px;
+    border-radius: 18px;
+    background-color: #019edb;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Lato";
+    text-align: center;
+    cursor: pointer;
+}
+.card3 p{
+    color: #ffffff;
+    width: 400px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato";
+    text-align: right;
+    text-align: justify;
+}
+ 
