@@ -1,0 +1,103 @@
+.section4{
+    height: 100vh;
+    background: url('src/assets/images/rectangle_3_copy_4.jpg');
+    background-repeat: no-repeat;
+}
+.heading4{
+    font-size: 75px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #019edb;
+    font-weight: 900;
+    font-family: "Lato";
+    margin-left: 675px;
+    margin-top: -140px;
+}
+.cube-img-1{
+    margin-left: 620px;
+    margin-top: 100px;
+}
+.heading{
+    color: white;
+    font-size: 39px;
+    font-weight: 700;
+    font-family: "Lato";
+    text-align: center;
+}
+.heading-4{
+    font-size: 23px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Lato";
+    text-align: center;
+    margin-top: 6px;
+}
+.card3-1{
+    margin-left: 150px;
+    margin-top: 150px;
+}
+.card3-1 button{
+    margin-top: 30px;
+}
+.line8{
+   margin-top: -900px;
+   margin-left: 550px;
+   margin-bottom: 55px;
+}
+.card3-2{
+    margin-left: 850px;
+    margin-top: -180px;
+}
+.card3-2 button{
+    margin-top: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .section4 {
+        height: auto;
+        background-size: cover; 
+    }
+
+    .heading4 {
+        font-size: 55px; 
+        margin: 20px auto; 
+        text-align: center;
+        margin-top: -120px;
+    }
+
+    .cube-img-1 {
+        margin: 20px auto; 
+        display: block; 
+    }
+
+    .heading {
+        font-size: 30px;
+        margin: 20px auto; 
+      
+    }
+
+    .heading-4 {
+        font-size: 18px; 
+        margin: 10px auto; 
+       
+    }
+
+    .card3-1,
+    .card3-2 {
+        margin: 20px auto; 
+        width: 90%; 
+        text-align: center;
+    }
+
+    .card3-1 button,
+    .card3-2 button {
+        margin-top: 20px; 
+    }
+
+    .line8 {
+        display: none; 
+    }
+}
